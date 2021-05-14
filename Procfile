@@ -1,1 +1,1 @@
-web: gunicorn main:bankmkt
+web: gunicorn main:app
